@@ -1,0 +1,15 @@
+{
+  "name": "mofdin-ascii",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsnd -r tsconfig-paths/register src/main.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "ts-node-dev": "^2.0.0",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.5.3"
+  }
+}
