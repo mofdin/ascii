@@ -12,4 +12,4 @@ yarn dev
 ```
 
 ## Screenshot
-![Welcome MofDin ASCII RPG](https://github.com/mofdin/ascii/assets/5226773/62011dde-7071-4cd8-a958-6881d38aee85)
+![MofDin ASCII GAME](https://github.com/mofdin/ascii/assets/5226773/875d426c-ce2d-4dd4-a18b-6ca9f2dc8525)
